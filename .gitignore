@@ -1,0 +1,11 @@
+.osp/
+.idea/
+.vscode/
+
+check/
+vendor/
+
+composer.lock
+
+.phpunit.cache
+.phpunit.result.cache

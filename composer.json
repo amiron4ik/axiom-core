@@ -1,0 +1,17 @@
+{
+    "name": "amiron4ik/axiom-core",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Axiom\\Core\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.3"
+    },
+    "config": {
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
+}
